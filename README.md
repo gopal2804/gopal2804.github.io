@@ -1,2 +1,2 @@
-# gopal2804.github.io
+# gopal2804.github.io/portfolio
 ## PORTFOLIO
